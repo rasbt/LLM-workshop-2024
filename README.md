@@ -10,6 +10,8 @@ This tutorial is aimed at coders interested in understanding the building blocks
 
 A ready-to-go cloud environment, complete with all code examples and dependencies installed, will be shared during the workshop. This will enable participants to run all code, particularly in the pretraining and finetuning sections, on a GPU.
 
+In addition, see the instructions in the [setup](./setup) folder to set up your computer to run the code locally.
+
 ## Outline
 
 |      | Title                        | Description                                                  | Code |
