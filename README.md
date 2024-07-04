@@ -10,9 +10,20 @@ This tutorial is aimed at coders interested in understanding the building blocks
 
 A ready-to-go cloud environment, complete with all code examples and dependencies installed, is available [here](https://lightning.ai/lightning-ai/studios/llms-from-the-ground-up-workshop?section=recent&view=public). This enables participants to run all code, particularly in the pretraining and finetuning sections, on a GPU.
 
+
+<div align="center">
+<br>
+
+
 <a target="_blank" href="https://lightning.ai/lightning-ai/studios/llms-from-the-ground-up-workshop">
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
 </a>
+
+<br>
+<br>
+<br>
+
+</div>
 
 In addition, see the instructions in the [setup](./setup) folder to set up your computer to run the code locally.
 
