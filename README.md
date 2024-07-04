@@ -1,4 +1,4 @@
-# LLM-workshop-2024
+# Pretraining and Finetuning LLMs from the Ground Up
 
 
 
