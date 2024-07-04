@@ -1,3 +1,29 @@
+# Slide files
+*.key
+
+# Solution files
+*_solution*
+loss-plot.pdf
+test_response_before.json
+test_response_before_after.json
+test.json
+train.json
+
+# Model weights
+124M/*
+model.pth
+checkpoint
+encoder.json
+hparams.json
+model.ckpt.data-00000-of-00001
+model.ckpt.index
+model.ckpt.meta
+vocab.bpe
+
+# OS and temporary files
+.DS_Store
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
