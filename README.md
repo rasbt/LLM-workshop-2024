@@ -7,7 +7,7 @@
 This tutorial is aimed at coders interested in understanding the building blocks of large language models (LLMs), how LLMs work, and how to code them from the ground up in PyTorch. We will kick off this tutorial with an introduction to LLMs, recent milestones, and their use cases. Then, we will code a small GPT-like LLM, including its data input pipeline, core architecture components, and pretraining code ourselves. After understanding how everything fits together and how to pretrain an LLM, we will learn how to load pretrained weights and finetune LLMs using open-source libraries.
 
 
-**The code material is loosely based on my [Build a Large Language Model From Scratch](http://mng.bz/orYv) book and also uses the [LitGPT](https://github.com/Lightning-AI/litgpt) library.**
+**The code material is based on my [Build a Large Language Model From Scratch](http://mng.bz/orYv) book and also uses the [LitGPT](https://github.com/Lightning-AI/litgpt) library.**
 
 <br>
 
@@ -43,5 +43,5 @@ In addition, see the instructions in the [setup](./setup) folder to set up your 
 | 5    | Loading pretrained weights   | Since pretraining is a long and expensive process, we will now load pretrained weights into our self-implemented architecture. Then, we will introduce the LitGPT open-source library, which provides more sophisticated (but still readable) code for training and finetuning LLMs. We will learn how to load weights of pretrained LLMs (Llama, Phi, Gemma, Mistral) in LitGPT. | [05_weightloading](05_weightloading) |
 | 6    | Finetuning LLMs              | This section will introduce LLM finetuning techniques, and we will prepare a small dataset for instruction finetuning, which we will then use to finetune an LLM in LitGPT. | [06_finetuning](06_finetuning)       |
 
-(The code material is loosely based on my [Build a Large Language Model From Scratch](http://mng.bz/orYv) book and also uses the [LitGPT](https://github.com/Lightning-AI/litgpt) library.)
+(The code material is based on my [Build a Large Language Model From Scratch](http://mng.bz/orYv) book and also uses the [LitGPT](https://github.com/Lightning-AI/litgpt) library.)
 
