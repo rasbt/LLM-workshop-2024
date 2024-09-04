@@ -1,6 +1,8 @@
 # Pretraining and Finetuning LLMs from the Ground Up
 
-
+<div align="center">
+<a href="https://youtu.be/quh7z1q7-uc?si=74AUYaVAgjumTHGM"><img src="https://sebastianraschka.com/images/blog/2024/building-llms-from-the-ground-up/yt-embed.jpg" width=500></a>
+</div>
 
 ## Overview
 
