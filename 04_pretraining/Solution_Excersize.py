@@ -3,6 +3,8 @@ from supplementary import GPTModel, generate_text_simple
 import tiktoken
 
 
+
+
 class GPTTextGenerator:
     def __init__(self, config, model_path, device=None):
         self.config = config
