@@ -57,3 +57,4 @@ if __name__ == "__main__":
     output_text = generator.generate_text(start_context, max_new_tokens=10)
 
     print("Output text:\n", output_text)
+ 
