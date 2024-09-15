@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "llm-workshop-2024"
+version = "0.1.0"
+description = ""
+authors = ["Sebastian Raschka <mail@sebastianraschka.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+torch = "^2.4.1"
+jupyterlab = "^4.2.5"
+tiktoken = "^0.7.0"
+matplotlib = "^3.9.2"
+tqdm = "^4.66.5"
+pandas = "^2.2.2"
+psutil = "^6.0.0"
+tensorflow = "^2.17.0"
+litgpt = {extras = ["all"], version = "^0.4.12"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
